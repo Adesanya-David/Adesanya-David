@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adesanya-David
 - 👀 I’m interested in achieving the SDGs...
-- 🌱 I’m currently learning Java and Laravel.
+- 🌱 I’m currently learning and developing cool stuff with Java, SpringBoot, MySql, Flutter/Dart, Firebase.
 - 💞️ I’m looking to collaborate on Open source and personal projects.
 - 📫 How to reach me adesanya.tito@gmail.com.
 
